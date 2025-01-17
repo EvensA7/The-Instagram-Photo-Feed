@@ -16,7 +16,7 @@ div.post{
     background-color: white;
     margin-top: 10px;
 }
-div.post img{
+img{
     width:100%;
 }
 div.post .post-header div:first-child{
